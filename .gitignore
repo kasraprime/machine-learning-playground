@@ -1,0 +1,5 @@
+/MNIST
+/model.onnx
+/model_graph.pkl
+/model_state.pt
+/wandb
